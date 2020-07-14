@@ -5,7 +5,7 @@ import P5Wrapper from 'react-p5-wrapper';
 
 const WallDrawing = props => {
 
-    const [mouth, setMouth] = useState([520, 330, 100, 70, 0, 91.15])
+    // const [mouth, setMouth] = useState([520, 330, 100, 70, 0, 91.15])
 
     // const changeMouth = () => {
     //     console.log(mouth)
